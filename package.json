@@ -1,5 +1,5 @@
 {
-  "name": "oooo",
+  "name": "oooo-encryption",
   "version": "1.0.0",
   "description": "oooo encrypt tool",
   "main": "./dist/index.js",
