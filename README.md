@@ -3,7 +3,7 @@
 ### 安装
 
 ```bash
-npm i oooo-encryption
+npm i oooo-encryption -g
 ```
 
 解密：
