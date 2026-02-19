@@ -1,0 +1,25 @@
+{
+  "name": "oooo",
+  "version": "1.0.0",
+  "description": "oooo encrypt tool",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "tsc && node ./dist/index.js",
+    "build": "tsc",
+    "commit": ""
+  },
+  "bin": {
+    "oooo": "./dist/index.js"
+  },
+  "keywords": [
+    "jsfuck",
+    "fuckjs",
+    "js",
+    "oooo"
+  ],
+  "author": "Micropue",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^25.3.0"
+  }
+}
